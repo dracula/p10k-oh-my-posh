@@ -1,19 +1,12 @@
-### [Foobar](https://foobar.com)
+### [Oh My Posh](https://ohmyposh.dev)
 
-#### Install using Git
+#### Installation
 
-If you are a git user, you can install the theme and keep up to date by cloning the repo:
+To install [Oh My Posh](https://ohmyposh.dev) on MacOS/Windows/Linux follow documentation [here](https://ohmyposh.dev/docs/installation/windows).
 
-```bash
-git clone https://github.com/dracula/foobar.git
-```
+#### Activating Theme
 
-#### Install manually
+For instructions on activating this theme in `powershell`, `cmd`, `xsh`, `bash`, `fish` and `nu` please refer to the documentation [here](https://ohmyposh.dev/docs/installation/customize). 
 
-Download using the [GitHub `.zip` download](https://github.com/dracula/foobar/archive/main.zip) option and unzip them.
-
-#### Activating theme
-
-1. Do this;
-2. Then that;
-3. Boom! It's working ✨
+#### Fonts
+Nerd Fonts are required for the Dracula theme. To display all icons, the use of [Nerd Fonts](https://www.nerdfonts.com/) is recommended. More information on fonts can be found [here](https://ohmyposh.dev/docs/installation/fonts).
