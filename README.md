@@ -8,7 +8,7 @@ Inspired by [powerlevel10k_rainbow](https://github.com/JanDeDobbeleer/oh-my-posh
 
 ## Install
 
-All instructions can be found at [draculatheme.com/oh-my-posh](https://draculatheme.com/oh-my-posh).
+All instructions can be found at [install](./INSTALL.md).
 
 ## Team
 
