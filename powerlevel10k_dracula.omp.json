@@ -64,7 +64,7 @@
       "alignment": "right",
       "segments": [
         {
-          "background": "p:background",
+          "background": "#000000",
           "foreground_templates": ["{{ if gt .Code 0 }}p:red{{ end }}"],
           "foreground": "p:green",
           "invert_powerline": true,
