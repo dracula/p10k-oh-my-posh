@@ -4,7 +4,7 @@
 
 ![Screenshot](./screenshot.png)
 
-Inspired by [powerlevel10k_rainbow](https://github.com/JanDeDobbeleer/oh-my-posh/blob/main/themes/powerlevel10k_rainbow.omp.json) + [Dracula Powerlevel10k](https://draculatheme.com/powerlevel10k). 
+> Inspired by [powerlevel10k_rainbow](https://github.com/JanDeDobbeleer/oh-my-posh/blob/main/themes/powerlevel10k_rainbow.omp.json) + [Dracula Powerlevel10k](https://draculatheme.com/powerlevel10k).
 
 ## Install
 
@@ -14,9 +14,9 @@ All instructions can be found at [install](./INSTALL.md).
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
 
-| [![Festim Nuredini](https://github.com/Festiis.png?size=100)](https://github.com/Festiis) | 
-| ---------------------------------------------------------------------------------------- |
-| [Festim Nuredini](https://github.com/Festiis)                                               | 
+| [![Festim Nuredini](https://github.com/Festiis.png?size=100)](https://github.com/Festiis) |
+| ----------------------------------------------------------------------------------------- |
+| [Festim Nuredini](https://github.com/Festiis)                                             |
 
 ## Community
 
